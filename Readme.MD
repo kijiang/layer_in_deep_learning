@@ -1,7 +1,12 @@
 # 深度学习中层的应用
-### Dense层
-+ 改变embedding的每个ndim的具体值，但不改变shape
-  如（a,b,c)经过dense后可以变成（A,B,C）
+### 常用层
++ dense
++ activation
++ lambda
++ dropout
++ flatten
++ ....
++ 更多详见https://keras-cn.readthedocs.io/en/latest/layers/core_layer/
 
 
 ### Pool层
